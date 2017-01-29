@@ -1,8 +1,10 @@
 /*
 //Filename: stopwatch.js
-//Author:     Sandesh Ashok Naik
+//Author:   Sandesh Ashok Naik
+//Date:     01/29/2017  
 //Contact:  sanaik@syr.edu
 */
+
 var inputSec = 0;
 var inputDays = 0, inputHours = 0, inputMinutes = 0, inputSeconds = 0;
 var timeElapsed = 0, timeElapsedDown = 0;
